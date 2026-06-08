@@ -15,4 +15,4 @@ I'm a Junior Developer based in **Marrakesh, Morocco**. I write code that works 
 Let's chat about tech, open-source, or why my local build broke the production server:
 
 *   **GitHub:** [@Aymane-Mirouah](https://github.com/Aymane-Mirouah) 
-*   **Email:** [aymanemirouah@gmail.com](mailto:aymanemirouah3@gmail.com) 
+*   **Email:** [aymanemirouah3@gmail.com](mailto:aymanemirouah3@gmail.com) 
