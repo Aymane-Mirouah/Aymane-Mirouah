@@ -15,7 +15,7 @@ Here are the languages I live and breathe (and occasionally argue with):
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymane-Mirouah)](https://github.com/Aymane-Mirouah/github-readme-stats)
+![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymane-Mirouah&hide=contribs,prs)
 
 ---
 
