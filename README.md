@@ -15,7 +15,7 @@ Here are the languages I live and breathe (and occasionally argue with):
 
 ### Stats
 
-![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymane-Mirouah&hide=contribs,prs)
+[![Aymane's Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Aymane-Mirouah&layout=compact&theme=radial)](https://github.com/Aymane-Mirouah)
 
 ---
 
