@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Aymane-Mirouah/Aymane-Mirouah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Aymane Mirouah! 
 
-Here are some ideas to get you started:
+I'm a Junior Developer based in **Marrakesh, Morocco**. I write code that works on my machine and, occasionally, even in production. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Tech Stack
+
+Here are the languages I live and breathe (and occasionally argue with):
+
+*   **Languages:** `Java` | `C` | `Python` | `C#`
+
+---
+
+### Stats
+
+[![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymane-Mirouah&show_icons=true&theme=radial)](https://github.com/Aymane-Mirouah)
+
+---
+
+###  Connect With Me
+
+Let's chat about tech, open-source, or why my local build broke the production server:
+
+*   **GitHub:** [@Aymane-Mirouah](https://github.com/Aymane-Mirouah) 
+*   **Email:** [aymanemirouah@gmail.com](mailto:aymanemirouah@gmail.com) 
+
+---
