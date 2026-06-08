@@ -12,7 +12,5 @@ I'm a Junior Developer based in **Marrakesh, Morocco**. I write code that works 
 
 ###  Connect With Me
 
-Let's chat about tech, open-source, or why my local build broke the production server:
-
 *   **GitHub:** [@Aymane-Mirouah](https://github.com/Aymane-Mirouah) 
 *   **Email:** [aymanemirouah3@gmail.com](mailto:aymanemirouah3@gmail.com) 
