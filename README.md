@@ -7,8 +7,6 @@ I'm a Junior Developer based in **Marrakesh, Morocco**. I write code that works 
 
 ###  Tech Stack
 
-Here are the languages I live and breathe (and occasionally argue with):
-
 *   **Languages:** `Java` | `C` | `Python` | `C#`
 
 ---
