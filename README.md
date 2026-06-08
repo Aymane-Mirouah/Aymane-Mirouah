@@ -13,12 +13,6 @@ Here are the languages I live and breathe (and occasionally argue with):
 
 ---
 
-### Stats
-
-[![Aymane's Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Aymane-Mirouah&layout=compact&theme=radial)](https://github.com/Aymane-Mirouah)
-
----
-
 ###  Connect With Me
 
 Let's chat about tech, open-source, or why my local build broke the production server:
