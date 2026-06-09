@@ -34,6 +34,6 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Aymane-Mirouah&show_icons=true&locale=en&theme=radial" alt="Aymane's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Aymane-Mirouah&show_icons=true&locale=en&layout=compact&theme=radial" alt="Aymane's Top Langs" height="180" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymane-mirouah&show_icons=true&locale=en&layout=compact" alt="aymane-mirouah" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymane-mirouah&show_icons=true&locale=en" alt="aymane-mirouah" /></p>
 </p>
