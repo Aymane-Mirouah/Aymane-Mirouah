@@ -1,8 +1,7 @@
-<h1 align="center">Aymane Mirouah </h1>
-<h3 align="center">Junior Developer | Développeur Junior</h3>
-<p align="center"> Marrakesh, 🇲🇦</p>
+<h1 align="left">Aymane Mirouah </h1>
+<h3 align="left">Junior Developer | Développeur Junior</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/aymane-mirouah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
@@ -33,7 +32,7 @@ Je suis un Développeur Junior passionné par le développement web et les syst�
 
 ##  Languages & Tools | Langages et Outils
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -41,13 +40,13 @@ Je suis un Développeur Junior passionné par le développement web et les syst�
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
@@ -57,7 +56,7 @@ Je suis un Développeur Junior passionné par le développement web et les syst�
 
 ##  GitHub Stats | Statistiques
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymane-mirouah&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aymane-mirouah&layout=compact&theme=transparent&hide_border=true&langs_count=5" height="160" />
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=aymane-mirouah&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=aymane-mirouah&layout=compact&theme=transparent&hide_border=true&langs_count=5" height="160" />
 </p>
