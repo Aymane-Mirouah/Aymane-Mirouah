@@ -56,9 +56,8 @@ Je suis un Développeur Junior passionné par le développement web et les syst�
 
 ---
 
-##  GitHub Stats | Statistiques
+##  Stats | Statistiques
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=aymane-mirouah&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="160" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs?username=aymane-mirouah&layout=compact&theme=transparent&hide_border=true&langs_count=5" height="160" />
 </p>
