@@ -9,7 +9,7 @@
 </p>
 
 
-## 👨‍💻 About Me | À Propos de Moi
+## About Me | À Propos de Moi
 
 I am a Junior Developer focused on backend systems and web development. I enjoy building efficient, scalable applications and collaborating on team projects. Currently, I am deepening my expertise in Object-Oriented Programming (OOP) and database integration.
 
