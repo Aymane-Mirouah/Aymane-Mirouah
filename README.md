@@ -1,5 +1,5 @@
 <h1 align="left">Aymane Mirouah </h1>
-<h3 align="left">Junior Dev | Développeur Junior</h3>
+<h3 align="left">Web & Mobile Developer</h3>
 
 
 <p align="left">
