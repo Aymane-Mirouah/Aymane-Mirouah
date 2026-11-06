@@ -1,11 +1,10 @@
 <h1 align="left">Aymane Mirouah </h1>
-<h3 align="left">Web & Mobile Developer</h3>
+<h2 align="left">Web & Mobile Developer</h2>
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aymane-mirouah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aymanemirouah3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/Aymane-Mirouah" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aymane-mirouah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aymanemirouah3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 
